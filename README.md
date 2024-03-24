@@ -8,10 +8,10 @@ Amazon EMR (Elastic MapReduce) Serverless is a serverless big data processing se
 
 # Project Structure
 1.	Scripts:
-a. reviews.py: Python script for processing the review data.
-b. script_arguments: Additional script arguments used during the EMR Serverless application setup.
+(a). reviews.py: Python script for processing the review data.
+(b). script_arguments: Additional script arguments used during the EMR Serverless application setup.
 2.	Sample Dataset:
-•	dataset_en_dev.json: Semi-structured review data in JSON format.
+(a).	dataset_en_dev.json: Semi-structured review data in JSON format.
 
 # How to Use
 1.	Setup Amazon EMR Serverless:
@@ -29,4 +29,4 @@ b. script_arguments: Additional script arguments used during the EMR Serverless 
 2.	To replicate the project or explore the code, refer to this GitHub repository.
 
 # Credits
-This project was inspired by the AWS Skillbuilder EMR Demo project.
+This project was inspired by the AWS Skillbuilder.
