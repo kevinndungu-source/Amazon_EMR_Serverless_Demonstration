@@ -25,8 +25,8 @@ b. script_arguments: Additional script arguments used during the EMR Serverless 
 •	Run SQL queries in Amazon Athena to analyze the processed data and derive insights.
 
 # Additional Resources
-a.	For detailed documentation and insights, refer to this project's documentation document link.
-b.	To replicate the project or explore the code, refer to this GitHub repository.
+1. For detailed documentation and insights, refer to this project's documentation document link.
+2.	To replicate the project or explore the code, refer to this GitHub repository.
 
 # Credits
 This project was inspired by the AWS Skillbuilder EMR Demo project.
