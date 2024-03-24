@@ -27,7 +27,6 @@ Amazon EMR (Elastic MapReduce) Serverless is a serverless big data processing se
 
 ## Additional Resources
 1. For detailed documentation and insights, refer to this project's documentation document [link](https://drive.google.com/file/d/16BrMDEi1JACxEJZfeDUAg90ulZR1V2Ol/view?usp=drive_link).
-2.	To replicate the project or explore the code, refer to this GitHub repository.
+2.	To replicate the project or explore the code, refer to this GitHub repository code section.
 
-## Credits
-This project was inspired by the AWS Skillbuilder.
+
