@@ -3,6 +3,7 @@
 <img width="1180" alt="Amazon-EMR-Serverless" src="https://github.com/kevinndungu-source/EMR_Serverless_Demonstration_Resources/assets/114335263/0b67b0b1-eacc-4101-ba35-90e31b7d8fb9">
 
 
+
 This project showcases the utilization of Amazon EMR Serverless for running a sample Spark job to process semi-structured review data. The goal is to demonstrate the capabilities of Amazon EMR Serverless in efficiently processing and analyzing big data workloads.
 Overview
 Amazon EMR (Elastic MapReduce) Serverless is a serverless big data processing service that enables you to run Apache Spark applications without managing clusters. In this demonstration, we leverage EMR Serverless to process semi-structured review data stored in JSON format and derive insights from the analysis.
