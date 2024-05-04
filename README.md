@@ -9,20 +9,23 @@ Overview
 Amazon EMR (Elastic MapReduce) Serverless is a serverless big data processing service that enables you to run Apache Spark applications without managing clusters. In this demonstration, we leverage EMR Serverless to process semi-structured review data stored in JSON format and derive insights from the analysis.
 
 ## Project Structure
-1.	Scripts:
+**1.	Scripts:**
  - **reviews.py**: Python script for processing the review data.
  - **script_arguments**: Additional script arguments used during the EMR Serverless application setup.
-2.	Sample Dataset:
+
+**2.	Sample Dataset:**
  - **dataset_en_dev.json**: Semi-structured review data in JSON format.
 
 ## How to Use
-1.	**Setup Amazon EMR Serverless:**
+**1.	Setup Amazon EMR Serverless:**
  -	Configure an S3 bucket to store output files and logs.
  -	Create an IAM role with appropriate permissions for EMR Serverless.
-2.	**Run Spark Job:**
+
+**2.	Run Spark Job:**
  -	Execute the sample Spark job using Amazon EMR Serverless.
  -	Provide necessary script arguments during application setup.
-3.	**Analyze Data with Amazon Athena:**
+
+**3.	Analyze Data with Amazon Athena:**
  -	Link Amazon Athena to the output folder in the S3 bucket containing processed Parquet data.
  -	Run SQL queries in Amazon Athena to analyze the processed data and derive insights.
 
